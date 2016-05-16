@@ -1,0 +1,12 @@
+.idea/
+out/
+
+*.iml
+*.class
+
+*.mp3
+*.avi
+
+Olejuk/libs/
+target/
+Gavryil/target/
