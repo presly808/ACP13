@@ -1,0 +1,178 @@
+{
+  "title": "week1-acp13-home",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "Repeat Collection in Java",
+      "id": 3,
+      "ideas": {
+        "1": {
+          "title": "Repeat Data Structures",
+          "id": 4,
+          "ideas": {
+            "1": {
+              "title": "video1 https://www.youtube.com/watch?v=U_xtKiYo1is&index=13&list=PLvmHg49t5OCQeODC20iDQpBOXFXHJz2em",
+              "id": 5
+            },
+            "2": {
+              "title": "video2 https://www.youtube.com/watch?v=IQOqoWdcwpk&index=14&list=PLvmHg49t5OCQeODC20iDQpBOXFXHJz2em",
+              "id": 6
+            }
+          }
+        },
+        "2": {
+          "title": "big note XMind https://drive.google.com/file/d/0B3pUqYFBBsi-a0s0UHp1S1dOc0k/view",
+          "id": 8
+        },
+        "3": {
+          "title": "Optional!!! \nImplement methods in HashSet, TreeSet",
+          "id": 9,
+          "ideas": {
+            "1": {
+              "title": "take skeleton code from",
+              "id": 10,
+              "attr": {
+                "style": {}
+              }
+            }
+          },
+          "attr": {
+            "position": [
+              2.5,
+              85.5,
+              1
+            ],
+            "style": {}
+          }
+        }
+      },
+      "attr": {
+        "style": {}
+      }
+    },
+    "11": {
+      "title": "next week topics",
+      "id": 14,
+      "ideas": {
+        "1": {
+          "title": "Terminal Bash",
+          "ideas": {
+            "1": {
+              "title": "codecademy https://www.codecademy.com/learn/learn-the-command-line",
+              "id": 16
+            }
+          },
+          "id": 15,
+          "attr": {
+            "style": {}
+          }
+        },
+        "2": {
+          "title": "Git",
+          "id": 17,
+          "ideas": {
+            "1": {
+              "title": "1) codecademy https://www.codecademy.com/learn/learn-git",
+              "id": 18,
+              "attr": {
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "2) video  (before video complete codecademy)",
+              "id": 20,
+              "attr": {
+                "style": {}
+              },
+              "ideas": {
+                "1": {
+                  "title": "video1 https://www.youtube.com/watch?v=bxnS_2A6tAI&index=5&list=PLvmHg49t5OCRQAWSXCl-4XQ-5blr0CH6B",
+                  "id": 21,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "2": {
+                  "title": "video2 https://www.youtube.com/watch?v=xmHW2Pc7KVM&index=6&list=PLvmHg49t5OCRQAWSXCl-4XQ-5blr0CH6B",
+                  "id": 22
+                }
+              }
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {},
+        "position": [
+          251.5,
+          9.5,
+          3
+        ]
+      }
+    },
+    "21": {
+      "title": "Recommendation",
+      "id": 23,
+      "ideas": {
+        "1": {
+          "title": "Make own mindmaps when your learning new material",
+          "id": 24,
+          "ideas": {},
+          "attr": {
+            "style": {}
+          }
+        }
+      },
+      "attr": {
+        "position": [
+          154.5,
+          115,
+          4
+        ],
+        "style": {}
+      }
+    }
+  },
+  "links": [
+    {
+      "ideaIdFrom": 10,
+      "ideaIdTo": 6,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "solid",
+          "arrow": true
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 20,
+      "ideaIdTo": 18,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "solid",
+          "arrow": true
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 24,
+      "ideaIdTo": 14,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "solid",
+          "arrow": true
+        }
+      }
+    }
+  ],
+  "attr": {
+    "storyboards": [
+      "Storyboard 1"
+    ],
+    "style": {}
+  }
+}
