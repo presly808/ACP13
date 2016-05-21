@@ -1,0 +1,33 @@
+Browser
+1. WEB  create github remote repo
+1.1 add colloborators 
+
+2. create folder local, open
+    init folder for git
+
+3. tell about remote repository
+4. create files (some.txt)
+5. do first commit
+6. push changes
+7. (Other members) do clone
+8. edit existed some.txt
+9. do comparsion (working dir, local repo)
+10. commit changes
+11. see commits history
+14. update remote repo info (fetch)
+13. see remote repo commit
+15. merge master with origin master
+16. resolve conflict (if exists)
+17. do commit 
+18. create several commit 
+19. copy files from some commit(use hash) use git checkout
+to a working directory
+20. delete two own commits
+21. create branch 
+22. checkout to the created branch
+23. do some commit 
+24. push your branch to github
+25. (Team) update local repo
+
+ 
+
