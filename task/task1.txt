@@ -1,0 +1,24 @@
+1. create directory
+2. create file.txt
+3. copy prev file
+4. mv all .txt files copies to another (wildcards)
+5. remove directory
+6. recursive find files with some name from the home directory
+7. remove all .jpeg
+8. find recursive files which have text with so
+me "key word" 
+9. rename some file
+10. append some information to a file
+11. rewrite file
+11. do (6) -> sort by name desc -> grep only xml -> save result
+12. show all active processes (?)
+14. show tail of file
+15. show head of file
+16. create Variable
+17. output variable
+18. (T)Why do we need .bashrc?
+19. (T)describe command: chown, chmod?
+20. If you on linux -> show processes, kill process
+21. merge two files then save resul
+
+help man info
