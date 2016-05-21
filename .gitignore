@@ -1,15 +1,10 @@
 .idea/
 out/
 
-
-ksjdfs
-
+*.iml
 *.class
 
 *.mp3
-sdlslk
-
-
 
 Olejuk/libs/
 target/
