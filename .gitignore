@@ -1,10 +1,14 @@
 .idea/
 out/
 
-*.iml
+#*.iml
 *.class
+dfgdljdlfkjgdfgdfgkd
+dlfgjdlkfjgdf
+
 
 *.mp3
+*.avi
 
 Olejuk/libs/
 target/
