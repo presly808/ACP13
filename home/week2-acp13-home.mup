@@ -1,0 +1,172 @@
+{
+  "title": "week2",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "11": {
+      "title": "prev week",
+      "id": 21,
+      "ideas": {
+        "1": {
+          "title": "git",
+          "ideas": {
+            "1": {
+              "title": "summary",
+              "ideas": {
+                "1": {
+                  "title": "basics",
+                  "ideas": {
+                    "1": {
+                      "title": "codecademy https://www.codecademy.com/learn/learn-git",
+                      "id": 25
+                    }
+                  },
+                  "id": 24
+                },
+                "2": {
+                  "title": "branching",
+                  "ideas": {
+                    "1": {
+                      "title": "http://learngitbranching.js.org/",
+                      "id": 27
+                    }
+                  },
+                  "id": 26
+                },
+                "3": {
+                  "title": "commands sheet",
+                  "ideas": {
+                    "1": {
+                      "title": "https://www.atlassian.com/dms/wac/images/landing/git/atlassian_git_cheatsheet.pdf",
+                      "id": 29
+                    }
+                  },
+                  "id": 28
+                },
+                "4": {
+                  "title": "good tutorial",
+                  "ideas": {
+                    "1": {
+                      "title": "https://www.atlassian.com/git/tutorials/",
+                      "id": 31
+                    }
+                  },
+                  "id": 30
+                }
+              },
+              "id": 23,
+              "attr": {
+                "style": {}
+              }
+            }
+          },
+          "id": 22,
+          "attr": {
+            "style": {},
+            "collapsed": true
+          }
+        },
+        "2": {
+          "title": "tasks",
+          "ideas": {
+            "1": {
+              "title": "finish classwork",
+              "id": 57
+            }
+          },
+          "id": 56,
+          "attr": {
+            "style": {}
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#FFA500"
+        }
+      }
+    },
+    "31": {
+      "title": "theoria",
+      "id": 39,
+      "ideas": {
+        "2": {
+          "title": "xml, json, parsers, junit,  mapping",
+          "id": 42,
+          "ideas": {
+            "1": {
+              "title": "video",
+              "id": 44,
+              "ideas": {
+                "1": {
+                  "title": "https://www.youtube.com/watch?v=qoh7wTerjnw&index=4&list=PLvmHg49t5OCSTcNLL4Hti29nXPueU8Wt7",
+                  "id": 45
+                },
+                "2": {
+                  "title": "https://www.youtube.com/watch?v=meFn0rhsanw&index=5&list=PLvmHg49t5OCSTcNLL4Hti29nXPueU8Wt7",
+                  "id": 48
+                }
+              }
+            }
+          }
+        },
+        "3": {
+          "title": "Reflection, Annotation, Serialization via Reflection",
+          "id": 49,
+          "ideas": {
+            "1": {
+              "title": "video",
+              "id": 50,
+              "ideas": {
+                "1": {
+                  "title": "https://www.youtube.com/watch?v=b71mSmq_-Y4&list=PLvmHg49t5OCSTcNLL4Hti29nXPueU8Wt7&index=6",
+                  "id": 51
+                }
+              }
+            }
+          }
+        },
+        "4": {
+          "title": "System Variables, PATH, JAVA_HOME, MAVEN",
+          "id": 52,
+          "ideas": {
+            "1": {
+              "title": "video ",
+              "id": 53,
+              "ideas": {
+                "1": {
+                  "title": "https://www.youtube.com/watch?v=0YaGTxt6Zq4&list=PLvmHg49t5OCSTcNLL4Hti29nXPueU8Wt7&index=7",
+                  "id": 55
+                }
+              }
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#FF0000"
+        }
+      }
+    },
+    "-1": {
+      "title": "tasks",
+      "id": 58,
+      "ideas": {
+        "2": {
+          "title": "repeat all action in videos",
+          "id": 64,
+          "attr": {
+            "style": {}
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#008000"
+        }
+      }
+    }
+  },
+  "links": []
+}
