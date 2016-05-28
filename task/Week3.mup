@@ -1,0 +1,47 @@
+{
+  "title": "Week3",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "Tasks",
+      "id": 3,
+      "ideas": {
+        "1": {
+          "title": "variants",
+          "id": 4,
+          "ideas": {
+            "1": {
+              "title": "Grab",
+              "id": 5,
+              "ideas": {
+                "1": {
+                  "title": "Ali Express",
+                  "id": 6
+                },
+                "2": {
+                  "title": "Google Search Results",
+                  "id": 7,
+                  "ideas": {
+                    "1": {
+                      "title": "Taxi",
+                      "id": 8
+                    }
+                  }
+                },
+                "3": {
+                  "title": "Weather",
+                  "id": 10
+                },
+                "4": {
+                  "title": "Privat Bank",
+                  "id": 11
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

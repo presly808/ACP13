@@ -71,7 +71,16 @@
           "ideas": {
             "1": {
               "title": "finish classwork",
-              "id": 57
+              "id": 57,
+              "attr": {
+                "style": {}
+              },
+              "ideas": {
+                "1": {
+                  "title": "https://github.com/presly808/ACP13/tree/master/task",
+                  "id": 65
+                }
+              }
             }
           },
           "id": 56,

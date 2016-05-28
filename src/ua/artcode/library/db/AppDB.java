@@ -65,6 +65,11 @@ public class AppDB implements ReaderDao, BookDao{
     }
 
     @Override
+    public List<Book> getAvailableBooks() {
+        return null;
+    }
+
+    @Override
     public Reader createReader(Reader reader) {
         return null;
     }
