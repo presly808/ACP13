@@ -11,9 +11,6 @@ import java.net.URI;
 import java.net.URISyntaxException;
 import java.net.URL;
 
-/**
- * Created by serhii on 28.05.16.
- */
 public class TestWeatherApi {
 
 

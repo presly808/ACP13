@@ -15,33 +15,315 @@
               "title": "Grab",
               "id": 5,
               "ideas": {
-                "1": {
-                  "title": "Ali Express",
-                  "id": 6
-                },
-                "2": {
-                  "title": "Google Search Results",
-                  "id": 7,
+                "6": {
+                  "title": "common",
+                  "id": 42,
                   "ideas": {
-                    "1": {
-                      "title": "Taxi",
-                      "id": 8
+                    "4": {
+                      "title": "web service",
+                      "id": 50,
+                      "ideas": {
+                        "1": {
+                          "title": "json",
+                          "id": 51,
+                          "attr": {
+                            "style": {}
+                          }
+                        },
+                        "2": {
+                          "title": "xml",
+                          "id": 52,
+                          "attr": {
+                            "style": {}
+                          }
+                        },
+                        "3": {
+                          "title": "tasks",
+                          "id": 63,
+                          "ideas": {
+                            "1": {
+                              "title": "Privat Bank",
+                              "id": 64,
+                              "attr": {
+                                "style": {}
+                              }
+                            },
+                            "2": {
+                              "title": "Weather",
+                              "id": 65,
+                              "attr": {
+                                "style": {}
+                              }
+                            }
+                          }
+                        }
+                      },
+                      "attr": {
+                        "style": {}
+                      }
+                    },
+                    "5": {
+                      "title": "site",
+                      "id": 58,
+                      "ideas": {
+                        "1": {
+                          "title": "html",
+                          "ideas": {
+                            "1": {
+                              "title": "parts",
+                              "ideas": {
+                                "1": {
+                                  "title": "object",
+                                  "ideas": {
+                                    "1": {
+                                      "title": "process",
+                                      "id": 62
+                                    }
+                                  },
+                                  "id": 61
+                                }
+                              },
+                              "id": 60
+                            }
+                          },
+                          "id": 59,
+                          "attr": {
+                            "style": {}
+                          }
+                        },
+                        "2": {
+                          "title": "tasks",
+                          "id": 66,
+                          "ideas": {
+                            "1": {
+                              "title": "FileDownloader",
+                              "id": 67,
+                              "attr": {
+                                "style": {}
+                              }
+                            },
+                            "2": {
+                              "title": "Ali Express",
+                              "ideas": {
+                                "1": {
+                                  "title": "get phone info",
+                                  "id": 77,
+                                  "ideas": {
+                                    "1": {
+                                      "title": "url",
+                                      "id": 78
+                                    },
+                                    "2": {
+                                      "title": "String",
+                                      "id": 79
+                                    },
+                                    "3": {
+                                      "title": "dom strucutre",
+                                      "id": 80
+                                    },
+                                    "4": {
+                                      "title": "get elements",
+                                      "id": 81
+                                    },
+                                    "5": {
+                                      "title": "get desired info",
+                                      "id": 82
+                                    },
+                                    "6": {
+                                      "title": "convert to object",
+                                      "id": 83
+                                    },
+                                    "7": {
+                                      "title": "save",
+                                      "id": 84
+                                    },
+                                    "2.5": {
+                                      "title": "selectors",
+                                      "id": 85,
+                                      "ideas": {
+                                        "1": {
+                                          "title": "css selectors",
+                                          "id": 86
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              },
+                              "id": 68,
+                              "attr": {
+                                "style": {}
+                              }
+                            },
+                            "3": {
+                              "title": "Google Search Results",
+                              "ideas": {
+                                "1": {
+                                  "title": "Taxi",
+                                  "id": 70
+                                }
+                              },
+                              "id": 69,
+                              "attr": {
+                                "style": {}
+                              }
+                            },
+                            "4": {
+                              "title": "libs",
+                              "id": 71,
+                              "ideas": {
+                                "1": {
+                                  "title": "jsoup",
+                                  "id": 72,
+                                  "attr": {
+                                    "style": {}
+                                  },
+                                  "ideas": {
+                                    "1": {
+                                      "title": "html parsing",
+                                      "id": 75
+                                    }
+                                  }
+                                },
+                                "2": {
+                                  "title": "Gson",
+                                  "id": 73,
+                                  "ideas": {
+                                    "1": {
+                                      "title": "json mapping",
+                                      "id": 76
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
                     }
                   }
-                },
-                "3": {
-                  "title": "Weather",
-                  "id": 10
-                },
-                "4": {
-                  "title": "Privat Bank",
-                  "id": 11
                 }
               }
             }
           }
         }
       }
+    },
+    "-1": {
+      "title": "topics",
+      "id": 12,
+      "ideas": {
+        "3": {
+          "title": "data formats",
+          "id": 21,
+          "ideas": {
+            "1": {
+              "title": "json",
+              "id": 22,
+              "attr": {
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "xml",
+              "ideas": {
+                "1": {
+                  "title": "parsers",
+                  "ideas": {
+                    "1": {
+                      "title": "dom",
+                      "id": 25
+                    },
+                    "2": {
+                      "title": "sax",
+                      "id": 26
+                    }
+                  },
+                  "id": 24
+                },
+                "2": {
+                  "title": "xsd",
+                  "id": 27
+                }
+              },
+              "id": 23,
+              "attr": {
+                "style": {}
+              }
+            },
+            "3": {
+              "title": "mapping",
+              "id": 28,
+              "ideas": {
+                "1": {
+                  "title": "json <-> object",
+                  "id": 29
+                },
+                "2": {
+                  "title": "xml <-> object",
+                  "id": 31
+                },
+                "3": {
+                  "title": "xsd - class",
+                  "id": 32
+                },
+                "4": {
+                  "title": "class - xsd",
+                  "id": 33
+                }
+              }
+            }
+          }
+        },
+        "5": {
+          "title": "grabbers",
+          "id": 36,
+          "ideas": {
+            "1": {
+              "title": "XPath, CSS selectors, Regexp",
+              "id": 37,
+              "attr": {
+                "style": {}
+              },
+              "ideas": {}
+            },
+            "2": {
+              "title": "Regexp",
+              "id": 54,
+              "ideas": {
+                "1": {
+                  "title": "text process",
+                  "id": 55,
+                  "ideas": {
+                    "1": {
+                      "title": "get part",
+                      "id": 56
+                    },
+                    "2": {
+                      "title": "find",
+                      "id": 57
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "6": {
+          "title": "testing",
+          "id": 38,
+          "ideas": {
+            "1": {
+              "title": "JUnit",
+              "id": 39
+            }
+          }
+        }
+      }
     }
+  },
+  "links": [],
+  "attr": {
+    "style": {}
   }
 }
