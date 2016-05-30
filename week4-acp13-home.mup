@@ -1,0 +1,140 @@
+{
+  "title": "week4-acp13",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "Finish Prev Tasks",
+      "id": 3,
+      "ideas": {
+        "1": {
+          "title": "site grabber",
+          "id": 6,
+          "attr": {
+            "style": {},
+            "attachment": {
+              "contentType": "text/html",
+              "content": "Load Html<div>Take recognized info</div><div><blockquote style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>via jsoup</div><div>via regexp - regexp tutorial&nbsp;<a href=\"http://regexone.com/\">http://regexone.com/</a></div></blockquote></div><div>Convert to a object&nbsp;</div><div>Object to a json</div><div>Save to a file</div>"
+            }
+          }
+        },
+        "2": {
+          "title": "API",
+          "id": 7,
+          "ideas": {},
+          "attr": {
+            "attachment": {
+              "contentType": "text/html",
+              "content": "1. Sing up <a href=\"http://openweathermap.org/\">http://openweathermap.org/</a><div>2. Take access key (APPID)</div><div>3. Call remote method (see api methods)</div><div>4. Take respond data</div><div>5. Convert json to object (Gson library)</div>"
+            },
+            "style": {}
+          }
+        },
+        "3": {
+          "title": "maven",
+          "id": 9,
+          "attr": {
+            "attachment": {
+              "contentType": "text/html",
+              "content": "1. Fork&nbsp;<a href=\"https://github.com/Manic1Nick/MyTaxi3\">https://github.com/Manic1Nick/MyTaxi3</a><div>2. Clone repository</div><div>3. Migrate to the maven architecture</div><div>4. Set up compiler plugin (source, target)</div><div>5. Add dependencies (see package libs)</div><div>6. Add child maven module (define parent in this module)&nbsp;</div><div>7. Make executable jar (maven plugin)</div>"
+            },
+            "style": {}
+          }
+        }
+      }
+    },
+    "11": {
+      "title": "theoria",
+      "id": 10,
+      "ideas": {
+        "1": {
+          "title": "Reflection Annotaion Serialization",
+          "id": 11,
+          "ideas": {
+            "1": {
+              "title": "video https://youtu.be/0YaGTxt6Zq4?list=PLvmHg49t5OCSTcNLL4Hti29nXPueU8Wt7&t=5252",
+              "id": 13,
+              "ideas": {}
+            },
+            "2": {
+              "title": "task",
+              "id": 15,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "<div>Implement own serializer</div><div><br></div>Object -&gt; JSON<div>JSON -&gt; Object&nbsp;</div><div><br></div><div>without libraries</div><div>use annotations</div><div><br></div><div>can be complex objects with has-a references</div>"
+                },
+                "style": {}
+              }
+            }
+          }
+        },
+        "2": {
+          "title": "Socket ServerSocket",
+          "id": 16,
+          "ideas": {
+            "1": {
+              "title": "video https://youtu.be/0YaGTxt6Zq4?list=PLvmHg49t5OCSTcNLL4Hti29nXPueU8Wt7&t=5242",
+              "id": 17,
+              "attr": {
+                "position": [
+                  257.5,
+                  -37.25,
+                  1
+                ],
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "task",
+              "id": 18,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "Implement own Chat &nbsp;-&gt; Client Server Architecture<div>a) send json messages</div><div>b) use logging</div><div>c) save history</div>"
+                },
+                "style": {}
+              }
+            }
+          }
+        },
+        "1.5": {
+          "title": "Logging ",
+          "id": 19,
+          "ideas": {
+            "1": {
+              "title": "video watch only about logging https://www.youtube.com/watch?v=EBg_NQA25R8&index=23&list=PLvmHg49t5OCRQAWSXCl-4XQ-5blr0CH6B",
+              "id": 20
+            }
+          },
+          "attr": {
+            "style": {}
+          }
+        }
+      }
+    },
+    "-1": {
+      "title": "future",
+      "id": 21,
+      "ideas": {
+        "1": {
+          "title": "ask me!",
+          "id": 23
+        }
+      }
+    }
+  },
+  "links": [
+    {
+      "ideaIdFrom": 20,
+      "ideaIdTo": 18,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed",
+          "arrow": true
+        }
+      }
+    }
+  ]
+}
