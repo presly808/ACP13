@@ -1,0 +1,528 @@
+{
+  "title": "Week4",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "Past topics",
+      "id": 2,
+      "ideas": {
+        "1": {
+          "title": "Reflection",
+          "id": 3,
+          "ideas": {
+            "1": {
+              "title": "Class",
+              "id": 5,
+              "ideas": {
+                "1": {
+                  "title": "getClass",
+                  "id": 6
+                },
+                "2": {
+                  "title": "ClassName.class",
+                  "id": 7
+                },
+                "3": {
+                  "title": "methods",
+                  "id": 8,
+                  "ideas": {
+                    "1": {
+                      "title": "getFields",
+                      "id": 9
+                    },
+                    "2": {
+                      "title": "getMethods",
+                      "id": 10
+                    },
+                    "3": {
+                      "title": "getConstructors",
+                      "id": 11
+                    },
+                    "4": {
+                      "title": "...",
+                      "id": 12
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {},
+            "collapsed": true
+          }
+        },
+        "2": {
+          "title": "Annotation",
+          "attr": {
+            "style": {},
+            "collapsed": true
+          },
+          "ideas": {
+            "1": {
+              "title": "RetensionPolicy",
+              "id": 22
+            },
+            "2": {
+              "title": "Target",
+              "id": 23
+            },
+            "3": {
+              "title": "Lyfecycle",
+              "ideas": {
+                "1": {
+                  "title": "Create",
+                  "id": 25
+                },
+                "2": {
+                  "title": "Use",
+                  "id": 26
+                },
+                "3": {
+                  "title": "Process",
+                  "id": 27
+                }
+              },
+              "id": 24
+            }
+          },
+          "id": 21
+        },
+        "3": {
+          "title": "Maven",
+          "id": 36,
+          "ideas": {
+            "1": {
+              "title": "goals",
+              "id": 37,
+              "ideas": {
+                "1": {
+                  "title": "Common Architecture",
+                  "id": 38
+                },
+                "2": {
+                  "title": "Dependencies",
+                  "id": 39
+                },
+                "3": {
+                  "title": "Build",
+                  "id": 41,
+                  "ideas": {
+                    "1": {
+                      "title": "Compile",
+                      "id": 42
+                    },
+                    "2": {
+                      "title": "Test",
+                      "id": 43
+                    },
+                    "3": {
+                      "title": "Package",
+                      "id": 44
+                    },
+                    "4": {
+                      "title": "Install",
+                      "id": 45,
+                      "ideas": {
+                        "1": {
+                          "title": "deploy ownself to the local repository .m2",
+                          "id": 46
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "2": {
+              "title": "architecture",
+              "id": 47,
+              "ideas": {
+                "1": {
+                  "title": "lifecycle",
+                  "id": 48,
+                  "ideas": {
+                    "1": {
+                      "title": "goal",
+                      "id": 49,
+                      "ideas": {
+                        "1": {
+                          "title": "plugin2",
+                          "id": 52
+                        }
+                      }
+                    },
+                    "2": {
+                      "title": "goal",
+                      "id": 50,
+                      "ideas": {
+                        "1": {
+                          "title": "plugin1",
+                          "id": 51
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "attr": {
+            "collapsed": true,
+            "style": {}
+          }
+        },
+        "4": {
+          "title": "TCP/IP",
+          "id": 54,
+          "ideas": {
+            "1": {
+              "title": "Socket",
+              "id": 55,
+              "ideas": {
+                "1": {
+                  "title": "has",
+                  "id": 61,
+                  "ideas": {
+                    "1": {
+                      "title": "InputStream",
+                      "id": 62
+                    },
+                    "2": {
+                      "title": "OutputStream",
+                      "id": 63
+                    }
+                  }
+                }
+              }
+            },
+            "2": {
+              "title": "ServerSocket",
+              "id": 56,
+              "ideas": {
+                "1": {
+                  "title": "accept",
+                  "id": 59,
+                  "ideas": {
+                    "1": {
+                      "title": "blocking method",
+                      "id": 60
+                    }
+                  }
+                }
+              }
+            },
+            "0.5": {
+              "title": "protocols",
+              "id": 64,
+              "ideas": {
+                "1": {
+                  "title": "IP",
+                  "id": 65,
+                  "ideas": {
+                    "1": {
+                      "title": "TCP",
+                      "id": 66
+                    },
+                    "2": {
+                      "title": "UDP",
+                      "id": 67
+                    }
+                  }
+                }
+              }
+            },
+            "0.75": {
+              "title": "IP:PORT",
+              "id": 57
+            }
+          },
+          "attr": {
+            "collapsed": true,
+            "style": {}
+          }
+        },
+        "5": {
+          "title": "JUnit",
+          "id": 70,
+          "ideas": {
+            "1": {
+              "title": "Test Framework",
+              "id": 71
+            },
+            "2": {
+              "title": "Lifecycle",
+              "id": 72,
+              "ideas": {
+                "1": {
+                  "title": "BeforeClass",
+                  "id": 73
+                },
+                "2": {
+                  "title": "Before",
+                  "id": 74
+                },
+                "3": {
+                  "title": "Test",
+                  "id": 77
+                },
+                "4": {
+                  "title": "After",
+                  "id": 78
+                },
+                "5": {
+                  "title": "Delete instance",
+                  "id": 79
+                },
+                "7": {
+                  "title": "Test",
+                  "id": 82,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "8": {
+                  "title": "Delete instance",
+                  "id": 83,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "9": {
+                  "title": "...",
+                  "id": 85
+                },
+                "10": {
+                  "title": "AfterClass",
+                  "id": 86
+                },
+                "1.5": {
+                  "title": "createInstance",
+                  "id": 76
+                },
+                "5.5": {
+                  "title": "Before",
+                  "id": 84,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "7.5": {
+                  "title": "After",
+                  "id": 81,
+                  "attr": {
+                    "style": {}
+                  }
+                }
+              }
+            },
+            "3": {
+              "title": "Hierarchy",
+              "id": 87
+            },
+            "4": {
+              "title": "Why do we need static?",
+              "id": 88
+            },
+            "5": {
+              "title": "use Assert",
+              "id": 89
+            }
+          },
+          "attr": {
+            "collapsed": true,
+            "style": {}
+          }
+        },
+        "6": {
+          "title": "Logging",
+          "id": 119,
+          "ideas": {
+            "1": {
+              "title": "Log4J",
+              "id": 120,
+              "ideas": {
+                "1": {
+                  "title": "Logger",
+                  "id": 121
+                },
+                "2": {
+                  "title": "Appender",
+                  "id": 122
+                },
+                "3": {
+                  "title": "Layout",
+                  "id": 123
+                }
+              }
+            }
+          },
+          "attr": {
+            "collapsed": true,
+            "style": {}
+          }
+        }
+      },
+      "attr": {
+        "style": {}
+      }
+    },
+    "-20": {
+      "title": "Do Taxi APP or Own Project",
+      "id": 111,
+      "ideas": {
+        "1": {
+          "title": "You can do own project instead of Taxi APP",
+          "id": 112,
+          "ideas": {
+            "1": {
+              "title": "use",
+              "id": 113,
+              "ideas": {
+                "1": {
+                  "title": "Junit",
+                  "id": 114
+                },
+                "2": {
+                  "title": "ClientServer Arhitecture",
+                  "id": 115
+                },
+                "3": {
+                  "title": "Json message",
+                  "id": 124,
+                  "ideas": {
+                    "1": {
+                      "title": "GSon Library",
+                      "id": 125
+                    }
+                  }
+                },
+                "0.5": {
+                  "title": "Maven",
+                  "id": 116
+                },
+                "1.5": {
+                  "title": "Logging",
+                  "id": 117
+                }
+              },
+              "attr": {
+                "collapsed": true,
+                "style": {}
+              }
+            }
+          },
+          "attr": {
+            "collapsed": true,
+            "style": {}
+          }
+        }
+      },
+      "attr": {
+        "style": {}
+      }
+    },
+    "-30": {
+      "title": "Home multithreading ",
+      "id": 92,
+      "ideas": {
+        "1": {
+          "title": "Home Tasks",
+          "attr": {
+            "attachment": {
+              "contentType": "text/html",
+              "content": "<pre style=\"color: rgb(0, 0, 0); line-height: normal;\">2. Write own scheduler task\n   That helps to run some task periodically\n\n3. Implement search in file system without recursion (use queue) -&gt; breadth-first search\n\n4. Implement search in file system using (Threads): ThreadPool -&gt; ExecutorService + Callable\n\n5. Implement multithreading downloading from ex.ua using Producer-Consumer pattern\n\tInput some key word and start point(url), then start recursive searching\n\tWhen we will find:\n\ta) page url, go inside and find other urls in page\n\tb) file url ask about downloading(you can stop downloading at any time)\n\n\tOne threads group go through pages, other download files\n\tpattern ProducerConsumer\n           use BlockingQueue</pre><pre style=\"color: rgb(0, 0, 0); line-height: normal;\">\n6. Implement asynchronous communication beetwen clients and server in the TaxiApp\n        Must have\n        - (saving history of messages into the file)\n        - read connections setting(port, max users size, list of banned users)\n            from server_settings.properties (see class Properties)\n        - send message using Serialization (ObjectOutputStream, ObjectInputStream) or Json (Gson library)\n        - for better architecture of application see pattern\n    Recommendation:\n      use package java.util.concurrent\n   </pre>"
+            },
+            "style": {}
+          },
+          "ideas": {},
+          "id": 93
+        },
+        "2": {
+          "title": "Lectures",
+          "id": 94,
+          "ideas": {
+            "1": {
+              "title": "Golovach",
+              "id": 95,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://www.youtube.com/playlist?list=PLoij6udfBncgjoaFqWZSh3L-THigDum7g<div>https://www.youtube.com/playlist?list=PLoij6udfBncjciZgFwQZdc4C3PgU4BRWZ<br></div><div>https://www.youtube.com/playlist?list=PLoij6udfBncguWCtfDRQjxI86-IfMMQB7<br></div>"
+                },
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "Bilobrov Brief Review after Golovach",
+              "id": 97,
+              "ideas": {
+                "1": {
+                  "title": "video1 https://www.youtube.com/watch?v=02QgLWj79Iw&list=PLvmHg49t5OCSTcNLL4Hti29nXPueU8Wt7&index=8",
+                  "id": 99,
+                  "ideas": {}
+                },
+                "2": {
+                  "title": "video2 https://www.youtube.com/watch?v=WO41PnWJ7bk&list=PLvmHg49t5OCSTcNLL4Hti29nXPueU8Wt7&index=9",
+                  "id": 102
+                }
+              }
+            }
+          },
+          "attr": {
+            "collapsed": true,
+            "style": {}
+          }
+        },
+        "3": {
+          "title": "materials",
+          "id": 103,
+          "ideas": {
+            "1": {
+              "title": "mindmaps",
+              "id": 104,
+              "ideas": {
+                "1": {
+                  "title": "https://github.com/presly808/ACP12/raw/master/home/WEEK5THREADS.xmind",
+                  "id": 105
+                },
+                "2": {
+                  "title": "https://github.com/presly808/ACP12/raw/master/home/ThreadsWeek5.xmind",
+                  "id": 109
+                },
+                "3": {
+                  "title": "https://drive.google.com/open?id=0B3pUqYFBBsi-WmtMb0JuQWJiM0E",
+                  "id": 110
+                }
+              },
+              "attr": {
+                "style": {}
+              }
+            }
+          },
+          "attr": {
+            "collapsed": true,
+            "style": {}
+          }
+        }
+      },
+      "attr": {
+        "style": {}
+      }
+    }
+  },
+  "links": [
+    {
+      "ideaIdFrom": 20,
+      "ideaIdTo": 3,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed",
+          "arrow": true
+        }
+      }
+    }
+  ]
+}
