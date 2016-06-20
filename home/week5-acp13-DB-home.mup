@@ -1,0 +1,148 @@
+{
+  "title": "week5-DB",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "3": {
+      "title": "HomeWork",
+      "id": 33,
+      "ideas": {
+        "1": {
+          "title": "SQL ",
+          "ideas": {
+            "1": {
+              "title": "tutorials",
+              "ideas": {
+                "1": {
+                  "title": "video",
+                  "ideas": {
+                    "1": {
+                      "title": "https://youtu.be/kspT0ztRo7w?list=PLvmHg49t5OCSTcNLL4Hti29nXPueU8Wt7",
+                      "id": 37
+                    },
+                    "2": {
+                      "title": "https://youtu.be/1--XMKbstVQ?list=PLvmHg49t5OCSTcNLL4Hti29nXPueU8Wt7",
+                      "id": 38
+                    }
+                  },
+                  "id": 36
+                },
+                "2": {
+                  "title": "references for intro",
+                  "attr": {
+                    "position": [
+                      41,
+                      -41.5,
+                      1
+                    ],
+                    "style": {}
+                  },
+                  "ideas": {
+                    "1": {
+                      "title": "http://www.w3schools.com/sql/",
+                      "id": 40
+                    }
+                  },
+                  "id": 39
+                },
+                "3": {
+                  "title": "online courses",
+                  "ideas": {
+                    "1": {
+                      "title": "https://www.codecademy.com/learn/learn-sql",
+                      "id": 42
+                    },
+                    "2": {
+                      "title": "http://sqlzoo.net/wiki/SELECT_basics",
+                      "id": 43
+                    }
+                  },
+                  "id": 41
+                }
+              },
+              "id": 35
+            }
+          },
+          "id": 34,
+          "attr": {
+            "style": {}
+          }
+        }
+      }
+    },
+    "-1": {
+      "title": "tasks",
+      "id": 7,
+      "ideas": {
+        "1": {
+          "title": "install MySql Server",
+          "id": 8,
+          "ideas": {
+            "1": {
+              "title": "remember installation home",
+              "id": 11,
+              "ideas": {
+                "1": {
+                  "title": "C:\\Program Files\\MySql\\MySql Server\\bin\\",
+                  "id": 12
+                }
+              }
+            }
+          }
+        },
+        "2": {
+          "title": "learn how to run and stop server",
+          "id": 9,
+          "ideas": {
+            "1": {
+              "title": "mysqld.exe",
+              "id": 13
+            }
+          }
+        },
+        "3": {
+          "title": "connect to the server by command line client",
+          "id": 10,
+          "ideas": {
+            "1": {
+              "title": "mysql.exe",
+              "id": 14
+            }
+          }
+        },
+        "4": {
+          "title": "use JDBC as client to the server",
+          "id": 15
+        },
+        "5": {
+          "title": "Replace DAO using JDBC",
+          "id": 16
+        }
+      }
+    }
+  },
+  "links": [
+    {
+      "ideaIdFrom": 13,
+      "ideaIdTo": 12,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed",
+          "arrow": true
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 14,
+      "ideaIdTo": 12,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed",
+          "arrow": true
+        }
+      }
+    }
+  ]
+}
