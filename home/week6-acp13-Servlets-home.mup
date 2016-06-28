@@ -1,0 +1,73 @@
+{
+  "title": "week6-acp13-Servlets-home",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "Last topic DB",
+      "id": 2,
+      "ideas": {
+        "2": {
+          "title": "https://github.com/presly808/ACP12/blob/master/home/WEEK6DB.xmind?raw=true",
+          "id": 7,
+          "attr": {
+            "style": {}
+          }
+        }
+      }
+    },
+    "-1": {
+      "title": "future",
+      "id": 8,
+      "ideas": {
+        "1": {
+          "title": "Servlets",
+          "id": 9,
+          "ideas": {
+            "1": {
+              "title": "video",
+              "id": 10,
+              "ideas": {
+                "1": {
+                  "title": "https://www.youtube.com/watch?v=JDj5p2-Luis",
+                  "id": 11
+                },
+                "2": {
+                  "title": "https://www.youtube.com/watch?v=2bE3EMae-eA",
+                  "id": 13
+                },
+                "3": {
+                  "title": "book",
+                  "id": 15,
+                  "ideas": {
+                    "1": {
+                      "title": "Head First Servlets and JSP",
+                      "id": 17,
+                      "ideas": {
+                        "1": {
+                          "title": "http://www.ex.ua/9309935",
+                          "id": 18
+                        }
+                      }
+                    }
+                  }
+                },
+                "2.5": {
+                  "title": "tutorials",
+                  "id": 19,
+                  "ideas": {
+                    "1": {
+                      "title": "https://www.codecademy.com/learn/web",
+                      "id": 20
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "links": []
+}
